@@ -19,7 +19,7 @@ import heroImage from '../images/IMG_3644.webp';
 //import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/Photo_1.jpg';
 import porfolioImage2 from '../images/portfolio/Photo_2.jpg';
-import porfolioImage3 from '../images/portfolio/Photo_3.jpg';
+import porfolioImage3 from '../images/portfolio/Photo_3.JPG';
 import porfolioImage4 from '../images/portfolio/Photo_4.jpg';
 import porfolioImage5 from '../images/portfolio/Photo_5.jpg';
 import porfolioImage6 from '../images/portfolio/Photo_6.jpg';
