@@ -34,7 +34,7 @@ const nextConfig = {
       },
     ],
   },
-  output: "export",
+  output: "export", // Place the output key here
 };
 
 module.exports = nextConfig;
