@@ -8,6 +8,9 @@ import {
   SparklesIcon,
 } from '@heroicons/react/24/outline';
 
+import GithubIcon from '/src/components/Icon/GithubIcon';
+//import InstagramIcon from '../components/Icon/InstagramIcon';
+import LinkedInIcon from '/src/components/Icon/LinkedInIcon';
 //import testimonialImage from '../images/testimonial.webp';
 import {
   About,
@@ -16,27 +19,24 @@ import {
   PortfolioItem,
   Social,
   TimelineItem,
-} from './dataDef';
-import GithubIcon from './src/components/Icon/GithubIcon';
-//import InstagramIcon from '../components/Icon/InstagramIcon';
-import LinkedInIcon from './src/components/Icon/LinkedInIcon';
+} from '/src/data/dataDef';
 //import profilepic from '../images/profilepic.jpg';
-import profilepic from './src/images/IMG_1206.jpg';
+import profilepic from '/src/images/IMG_1206.jpg';
 //import StackOverflowIcon from '../components/Icon/StackOverflowIcon';
 //import TwitterIcon from '../components/Icon/TwitterIcon';
-import heroImage from './src/images/IMG_3644.webp';
+import heroImage from '/src/images/IMG_3644.webp';
 //import heroImage from '../images/header-background.webp';
-import porfolioImage1 from './src/images/portfolio/Photo_1.jpg';
-import porfolioImage2 from './src/images/portfolio/Photo_2.jpg';
-import porfolioImage3 from './src/images/portfolio/Photo_3.jpg';
-import porfolioImage4 from './src/images/portfolio/Photo_4.jpg';
-import porfolioImage5 from './src/images/portfolio/Photo_5.jpg';
-import porfolioImage6 from './src/images/portfolio/Photo_6.jpg';
-import porfolioImage7 from './src/images/portfolio/Photo_7.jpg';
-import porfolioImage8 from './src/images/portfolio/Photo_8.jpg';
-import porfolioImage9 from './src/images/portfolio/Photo_9.jpg';
-import porfolioImage10 from './src/images/portfolio/Photo_10.jpg';
-import porfolioImage11 from './src/images/portfolio/Photo_11.jpg';
+import porfolioImage1 from '/src/images/portfolio/Photo_1.jpg';
+import porfolioImage2 from '/src/images/portfolio/Photo_2.jpg';
+import porfolioImage3 from '/src/images/portfolio/Photo_3.jpg';
+import porfolioImage4 from '/src/images/portfolio/Photo_4.jpg';
+import porfolioImage5 from '/src/images/portfolio/Photo_5.jpg';
+import porfolioImage6 from '/src/images/portfolio/Photo_6.jpg';
+import porfolioImage7 from '/src/images/portfolio/Photo_7.jpg';
+import porfolioImage8 from '/src/images/portfolio/Photo_8.jpg';
+import porfolioImage9 from '/src/images/portfolio/Photo_9.jpg';
+import porfolioImage10 from '/src/images/portfolio/Photo_10.jpg';
+import porfolioImage11 from '/src/images/portfolio/Photo_11.jpg';
 
 /**
  * Page meta data
