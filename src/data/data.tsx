@@ -8,6 +8,15 @@ import {
   SparklesIcon,
 } from '@heroicons/react/24/outline';
 
+//import testimonialImage from '../images/testimonial.webp';
+import {
+  About,
+  Hero,
+  HomepageMeta,
+  PortfolioItem,
+  Social,
+  TimelineItem,
+} from './dataDef';
 import GithubIcon from './src/components/Icon/GithubIcon';
 //import InstagramIcon from '../components/Icon/InstagramIcon';
 import LinkedInIcon from './src/components/Icon/LinkedInIcon';
@@ -28,15 +37,6 @@ import porfolioImage8 from './src/images/portfolio/Photo_8.jpg';
 import porfolioImage9 from './src/images/portfolio/Photo_9.jpg';
 import porfolioImage10 from './src/images/portfolio/Photo_10.jpg';
 import porfolioImage11 from './src/images/portfolio/Photo_11.jpg';
-//import testimonialImage from '../images/testimonial.webp';
-import {
-  About,
-  Hero,
-  HomepageMeta,
-  PortfolioItem,
-  Social,
-  TimelineItem,
-} from './dataDef';
 
 /**
  * Page meta data
