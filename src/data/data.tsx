@@ -19,7 +19,6 @@ import heroImage from '../images/IMG_3644.webp';
 //import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/Photo_1.jpg';
 import porfolioImage2 from '../images/portfolio/Photo_2.jpg';
-import porfolioImage3 from '../images/portfolio/Photo_new.jpg';
 import porfolioImage4 from '../images/portfolio/Photo_4.jpg';
 import porfolioImage5 from '../images/portfolio/Photo_5.jpg';
 import porfolioImage6 from '../images/portfolio/Photo_6.jpg';
@@ -28,6 +27,7 @@ import porfolioImage8 from '../images/portfolio/Photo_8.jpg';
 import porfolioImage9 from '../images/portfolio/Photo_9.jpg';
 import porfolioImage10 from '../images/portfolio/Photo_10.jpg';
 import porfolioImage11 from '../images/portfolio/Photo_11.jpg';
+import porfolioImage3 from '../images/portfolio/Photo_new.jpg';
 //import testimonialImage from '../images/testimonial.webp';
 import {
   About,
