@@ -94,8 +94,8 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I am a passionate and driven individual with a keen interest in leveraging technology to solve real-world problems! My educational background includes an M.Sc. in Machine Learning and a B.Sc. in Electrical Engineering. My master's thesis is about clustering of Alzheimer's disease data to identify subtypes of Alzheimer's using FDG-PET scans. This research was conducted in collaboration with Karolinska Institutet.
-During my bachelor's degree, I had the opportunity to work with different projects, such as building a Qi receiver for wireless charging and using Machine Learning to predict the accuracy of Nanopore DNA sampling.  Additionally, I have gained work experience through internships, including working as a software engineer at Goldman Sachs, working with R&D of Electric Vehicles at Scania, and working with R&D of high-voltage industrial appliances at Hitachi Energy`,
+  description: `I am a passionate and driven individual with a keen interest in leveraging technology to solve real-world problems! My educational background includes an M.Sc. in Machine Learning and a B.Sc. in Electrical Engineering. My master's thesis is about clustering of Alzheimer's disease data to identify subtypes of Alzheimer's using FDG-PET scans. Throughout my Master's degree, I have worked with several different ML projects.
+During my bachelor's degree, I had the opportunity to work with different projects as well, such as building a Qi receiver for wireless charging and using Machine Learning to predict the accuracy of Nanopore DNA sampling.  Additionally, I have gained work experience through internships, including working as a software engineer at Goldman Sachs, working with R&D of Electric Vehicles at Scania, and working with R&D of high-voltage industrial appliances at Hitachi Energy`,
   aboutItems: [
     {label: 'Location', text: '', Icon: MapIcon},
     {label: 'Age', text: '29', Icon: CalendarIcon},
@@ -239,7 +239,7 @@ export const projects: TimelineItem[] = [
   },
   {
     date: 'Sep 2023 - Oct 2023',
-    location: 'Technologies used: Python, Spark, Kafka, Cassandra, Flask, IRC websocket',
+    location: 'Technologies used: Python, Spark, Kafka, Cassandra, Flask, IRC socket',
     title: 'Twitch Chat Analyzer',
     content: (
        <ul className="list-disc">
